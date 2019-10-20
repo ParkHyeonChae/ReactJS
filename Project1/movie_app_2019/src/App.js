@@ -21,7 +21,7 @@ class App extends React.Component{
 //       setTimeout(() => {
 //         this.setState({ isLoading: false });
 //     }, 6000);
-//   }
+//   
   componentDidMount(){
     this.getMovies();
   }
